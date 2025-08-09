@@ -1,18 +1,12 @@
 <p align="center">
-        <a href="https://a.co/d/0BzepQr" title="The Ultimate Game Bot Guide">
+        <a href="https://a.co/d/encyYbo" title="The Ultimate Game Bot Guide">
                 <img src="https://github.com/user-attachments/assets/d1b485df-68c5-49bc-9ad8-bbcad93de53e" width="800" height="400">
         </a>
 </p>
 
 <p align="center">
-    <a href="https://a.co/d/0BzepQr" title="The Ultimate Game Bot Guide">
+    <a href="https://a.co/d/encyYbo" title="The Ultimate Game Bot Guide">
         <img src="https://github.com/user-attachments/assets/8e5197f8-3a45-45e9-b380-1b599b0ff229" alt="The Ultimate Game Bot Guide" width="800" height="400"/>
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://www.ebay.com/str/homesteadharvest" title="The Ultimate Game Bot Guide">
-        <img src="https://github.com/user-attachments/assets/bdcc90ae-8cac-4181-9e93-702d4ea5f708" alt="The Ultimate Game Bot Guide" width="800" height="400"/>
     </a>
 </p>
 
