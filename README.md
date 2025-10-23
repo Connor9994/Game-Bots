@@ -10,6 +10,7 @@
     </a>
 </p>
 
+![GitHub stars](https://img.shields.io/github/stars/Connor9994/Game-Bots?style=social) ![GitHub forks](https://img.shields.io/github/forks/Connor9994/Game-Bots?style=social) ![GitHub issues](https://img.shields.io/github/issues/Connor9994/Game-Bots) 
 
 # Fortnite Leveler
 <img src="https://github.com/Connor9994/Game-Bots/blob/main/Gifs/Fortnite%20Leveler.gif" width="400" height="259">
